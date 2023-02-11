@@ -6,6 +6,14 @@
 - 🍃 <samp>Currently building beautiful apps with **Flutter** and **Dart**.</samp>
 - 💫 <samp>Passionate about gaining different experiences and learning new technologies.</samp>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/IsaiasCuvula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloofaramerian&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloofaramerian&layout=compact&langs_count=7&theme=nord" />
+</div>
+
 
 ##
 
@@ -16,9 +24,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,git,firebase,figma,postman" />
   </a>
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloofaramerian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
