@@ -1,6 +1,10 @@
 <h2> Hi, I'm Niloofar Amerian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-A computer software engineer who is interested in mobile application development with Kotlin and flutter and currently building beautiful apps with Flutter & Dart. Passionate about gaining different experiences and learning new technologies.
+
+- 👩🏻‍💻 <samp>I’m a **Computer Software Engineer**.</samp>
+- ✍️ <samp>I'm Interested in **Mobile Application Development** with **Kotlin** and **Flutter**.</samp>
+- 🍃 <samp>Currently building beautiful apps with **Flutter** and **Dart**.</samp>
+- 💫 <samp>Passionate about gaining different experiences and learning new technologies.</samp>
 
 ##
 <h3>Languages and Tools</h3>
