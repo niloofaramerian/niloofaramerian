@@ -21,11 +21,13 @@
 
  <h3>GitHub Stats</h3> 
    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloofaramerian&hide_border=true&theme=ayu-mirage"  height="140px"  />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloofaramerian&hide_border=true&theme=ayu-mirage"  height="130px"  />
    </p>
    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=niloofaramerian&hide_border=true&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=21&theme=ayu-mirage" height="140px"/> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloofaramerian&hide=html,Rich+Text+Format&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=ayu-mirage" />
+        <img src="https://github-readme-stats.vercel.app/api?username=niloofaramerian&hide_border=true&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=21&theme=ayu-mirage" height="130px"/> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloofaramerian&hide=html,Rich+Text+Format&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=ayu-mirage" />
     </p>
+    
+    
     
     
     
