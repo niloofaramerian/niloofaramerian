@@ -1,5 +1,4 @@
-<h2> Hi, I'm Niloofar Amerian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
+<h3> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 - 👩🏻‍💻 <samp>I’m a **Computer Software Engineer**.</samp>
 - ✍️ <samp>I'm Interested in **Mobile Application Development** with **Kotlin** and **Flutter**.</samp>
@@ -13,13 +12,23 @@
 <h3>Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,git,firebase,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,dart,flutter,androidstudio,git,firebase,xd,figma,postman" />
   </a>
 </p>
 
 
 ##
+
+ <h3>GitHub Stats</h3> 
+   <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloofaramerian&hide_border=true&theme=ayu-mirage"  height="140px"  />
+   </p>
+   <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=niloofaramerian&hide_border=true&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=21&theme=ayu-mirage" height="140px"/> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloofaramerian&hide=html,Rich+Text+Format&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=ayu-mirage" />
+    </p>
+    
+    
+    
   
-<h3>Connect with me</h3> 
-  <a href = "mailto:niloofar.amerian77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/niloofar-amerian-843727209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ 
